@@ -1,7 +1,8 @@
-# newton
+# Newton
 To use the AI.
 
-step 1: Run setup.py
+### step 1: 
+Run setup.py
 Fill the details asked and you are done. 
 
 ## How to get ChatGPT API ?
