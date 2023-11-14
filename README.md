@@ -1,16 +1,12 @@
 # Newton
-To use the AI.
 
-### step 1: 
-Run setup.py
-Fill the details asked and you are done. 
+The AI uses ChatGPT API to answer questions asked. To get answers from ChatGPT, say "newton" along with the questions asked. The program is capable of natural language processing, resulting in a highly comfortable user experience.
 
-## How to get ChatGPT API ?
-https://mrpitech.blogspot.com/2023/05/how-to-get-chatgpt-api-key.html
+## Setup
 
-## How to get OpenWeather map API ?
-https://mrpitech.blogspot.com/2023/11/how-to-get-api-key-of-open-weather-map.html
+### Step 1: Run `setup.py`
 
-To use the play music feature.
-Make directory inside same location by name "Music_"
+Run the `setup.py` script to configure the project. Follow the prompts and fill in the necessary details.
 
+```bash
+python setup.py
