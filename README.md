@@ -25,13 +25,13 @@ Play Music Feature
 To use the play music feature:
 
 Create a directory named "Music_" in the same location as your project.
-```bash
+bash
 mkdir Music_
 
 Customize the directory as needed to organize your music files professionally.
 Usage
 
-```bash
+bash
 python Newton_AI.py
 
 License
