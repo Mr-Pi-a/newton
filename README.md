@@ -10,7 +10,7 @@ Run the `setup.py` script to configure the project. Follow the prompts and fill 
 
 
 
-```python setup.py```
+```bash python setup.py```
 
 
 Getting ChatGPT API Key
