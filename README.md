@@ -9,7 +9,8 @@ The AI uses ChatGPT API to answer questions asked. To get answers from ChatGPT, 
 Run the `setup.py` script to configure the project. Follow the prompts and fill in the necessary details.
 
 
-'''python setup.py'''
+'''bash
+python setup.py'''
 
 
 Getting ChatGPT API Key
