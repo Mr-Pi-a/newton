@@ -9,7 +9,7 @@ The AI uses ChatGPT API to answer questions asked. To get answers from ChatGPT, 
 Run the `setup.py` script to configure the project. Follow the prompts and fill in the necessary details.
 
 
-'''bash
+```bash
 python setup.py
 
 
@@ -25,13 +25,13 @@ Play Music Feature
 To use the play music feature:
 
 Create a directory named "Music_" in the same location as your project.
-'''bash
+```bash
 mkdir Music_
 
 Customize the directory as needed to organize your music files professionally.
 Usage
 
-'''bash
+```bash
 python Newton_AI.py
 
 License
