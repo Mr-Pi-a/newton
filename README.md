@@ -32,3 +32,6 @@ Usage
 ```python Newton_AI.py```
 
 Feel free to adjust it further according to your preferences!
+
+Follow Video for details
+https://www.youtube.com/watch?v=zdkxPcGDKeY&t=3s
